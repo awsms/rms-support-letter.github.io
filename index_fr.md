@@ -10,36 +10,36 @@ majeur dans le mouvement des logiciels libres depuis plusieurs
 décennies, avec de nombreuses contributions comme le système
 d'exploitation GNU et Emacs.
 
-Récemment, on été orchestré de basses attaques ayant pour but son
-retrait du conseil d'administation de la FSF en raison de l'expression
-de certaines opinions personnels. Nous avons déjà vu cela se produire
-de manière organisé avec d'autres libristes et programmeur·ses de
-premier plan. Nous ne resterons pas les bras croisés cette fois ci,
-alors qu'une icone de cette communauté est attaqué.
+Ont récemment été orchestrées de basses attaques ayant pour but son
+retrait du conseil d'administation de la FSF, en raison de l'expression
+de certaines opinions personnelles. Nous avons déjà vu cela se produire
+de manière organisée avec d'autres libristes et programmeur·ses de
+premier plan. Nous ne resterons pas les bras croisés cette fois-ci,
+alors qu'une icône de cette communauté est attaquée.
 
 La FSF est une entité autonome tout à fait capable de traiter ses
-membres d'une façon juste et non biaisé, et ne devrait pas céder aux
+membres d'une façon juste et non biaisée, et ne devrait pas céder aux
 pressions sociales externes. Nous incitons fortement la FSF à
 considérer les arguments contre RMS de façon objective et de chercher
 à comprendre vraiment le sens de ses mots et actions.
 
 Historiquement, RMS a toujours exprimé ses opinions d'une façon qui
-dérange beaucoup de personne. Il est habituellement plus prompt a
+dérange beaucoup de personnes. Il est habituellement plus prompt a
 s'attarder sur les fondements philosophiques, la vérité objective et
 le purisme linguistique, tout en minimisant l'importance de ce que
 peuvent ressentir les personnes sur les sujets qu'il commente. Cela
-rends ses arguments vulnérables aux malentendus et fausses
+rend ses arguments vulnérables aux malentendus et fausses
 représentations, ce qui nous pensons est en train de se passer dans la
-lettre ouverte appellant à sa démission. Ce qu'il dit doit être
+lettre ouverte appelant à sa démission. Ce qu'il dit doit être
 interprété dans son contexte et il doit d'être pris en compte que, la
 plupart du temps, il ne cherche pas à dire les choses
 diplomatiquement.
 
 Quoi qu'il en soit, les opinions de Stallman sur les sujets pour
 lesquels il est persécuté ne sont pas pertinentes pour juger de sa
-capacité à dirigé une communauté tel que la FSF. De plus, il est libre
+capacité à dirigé une communauté telle que la FSF. De plus, il est libre
 de ses opinions, autant que n'importe qui. Les membres et soutiens ne
-sont pas obligé d'être d'accord avec ses opinions, mais devrait
+sont pas obligés d'être d'accord avec ses opinions, mais devraientt
 respecter sa liberté de penser et d'expression.
 
 **A l'attention de la FSF:**
@@ -52,11 +52,11 @@ futur de l'industrie du logiciel.
 
 **A l'attention de la foule agitée qui s'acoquine contre Richard
 Stallman à cause des arguments raisonnables qu'il a eu dans des débats
-ou des ses opinions et prises de positions variées soutenu pendant des
+ou de ses opinions et prises de positions variées soutenu pendant des
 décennies en tant que figure publique :**
 
 Vous n'avez aucune pertinence à choisir qui devrait être à la tête de
-tel ou tel communauté. Surtout pas par le biais d'une autre attaque en
+telle ou telle communauté. Surtout pas par le biais d'une autre attaque en
 meute qui ne ressemble en rien à un débat conduit de manière
 raisonnable et équitable tel qu'illustré par des gens meilleurs comme
 Richard Stallman.
